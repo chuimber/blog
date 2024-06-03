@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bo&#39;s Blog - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Bo&#39;s Blog - A super concise theme for Hugo</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <copyright>chuimber</copyright>
+    <lastBuildDate>Fri, 31 May 2024 01:22:06 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SpringBoot如何使用PageHelper实现分页查询</title>
+      <link>http://localhost:1313/post/springboot%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8pagehelper%E5%AE%9E%E7%8E%B0%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</link>
+      <pubDate>Fri, 31 May 2024 01:22:06 +0800</pubDate>
+      <guid>http://localhost:1313/post/springboot%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8pagehelper%E5%AE%9E%E7%8E%B0%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2/</guid>
+      <description>在原始的分页查询方法中，需要编写复杂的SQL语句来限制查询结果的范围，通常需要使用LIMIT或者ROWNUM等数据库特定的语法来实现分页。在</description>
+    </item>
+  </channel>
+</rss>

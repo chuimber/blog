@@ -1,13 +1,13 @@
 +++
-title: "Maven创建SpringBoot"
-date: 2024-06-04T17:05:01+08:00
-lastmod: 2024-06-04T17:05:01+08:00
-draft: false
-keywords: []
-description: ""
-tags: []
-categories: []
-author: "chuimber"
+title = 'Maven创建SpringBoot'
+date = 2024-06-04T17:05:01+08:00
+lastmod = 2024-06-04T17:05:01+08:00
+draft = false
+keywords = []
+description = ''
+tags = ['Maven']
+categories = []
+author = 'chuimber'
 +++
 # 先说两种方式
 - 继承SpringBoot提供的父Pom

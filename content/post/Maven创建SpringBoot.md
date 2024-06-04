@@ -1,4 +1,4 @@
----
++++
 title: "Maven创建SpringBoot"
 date: 2024-06-04T17:05:01+08:00
 lastmod: 2024-06-04T17:05:01+08:00
@@ -8,39 +8,7 @@ description: ""
 tags: []
 categories: []
 author: "chuimber"
-
-# You can also close(false) or open(true) something for this content.
-# P.S. comment can only be closed
-comment: false
-toc: false
-autoCollapseToc: false
-postMetaInFooter: false
-hiddenFromHomePage: false
-# You can also define another contentCopyright. e.g. contentCopyright: "This is another copyright."
-contentCopyright: false
-reward: false
-mathjax: false
-mathjaxEnableSingleDollar: false
-mathjaxEnableAutoNumber: false
-
-# You unlisted posts you might want not want the header or footer to show
-hideHeaderAndFooter: false
-
-# You can enable or disable out-of-date content warning for individual post.
-# Comment this out to use the global config.
-#enableOutdatedInfoWarning: false
-
-flowchartDiagrams:
-  enable: false
-  options: ""
-
-sequenceDiagrams: 
-  enable: false
-  options: ""
-
----
-
-<!--more-->
++++
 # 先说两种方式
 - 继承SpringBoot提供的父Pom
 - 在依赖关系管理\<dependencyManagement\>中通过添加带有 scope=import 的 spring-boot-dependencies 工件来进行依赖项管理

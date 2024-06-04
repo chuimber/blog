@@ -1,5 +1,5 @@
 +++
-title = 'Maven创建SpringBoot'
+title = 'Maven创建SpringBoot的两种方式'
 date = 2024-06-04T17:05:01+08:00
 lastmod = 2024-06-04T17:05:01+08:00
 draft = false
